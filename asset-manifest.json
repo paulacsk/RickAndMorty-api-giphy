@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/RickAndMorty-api-giphy/static/css/main.9690bb66.chunk.css",
-    "main.js": "/RickAndMorty-api-giphy/static/js/main.733a3e41.chunk.js",
-    "main.js.map": "/RickAndMorty-api-giphy/static/js/main.733a3e41.chunk.js.map",
+    "main.css": "/RickAndMorty-api-giphy/static/css/main.273e679f.chunk.css",
+    "main.js": "/RickAndMorty-api-giphy/static/js/main.fa58fcd7.chunk.js",
+    "main.js.map": "/RickAndMorty-api-giphy/static/js/main.fa58fcd7.chunk.js.map",
     "runtime-main.js": "/RickAndMorty-api-giphy/static/js/runtime-main.7445841b.js",
     "runtime-main.js.map": "/RickAndMorty-api-giphy/static/js/runtime-main.7445841b.js.map",
-    "static/js/2.e01fe536.chunk.js": "/RickAndMorty-api-giphy/static/js/2.e01fe536.chunk.js",
-    "static/js/2.e01fe536.chunk.js.map": "/RickAndMorty-api-giphy/static/js/2.e01fe536.chunk.js.map",
+    "static/js/2.b2c089fc.chunk.js": "/RickAndMorty-api-giphy/static/js/2.b2c089fc.chunk.js",
+    "static/js/2.b2c089fc.chunk.js.map": "/RickAndMorty-api-giphy/static/js/2.b2c089fc.chunk.js.map",
     "index.html": "/RickAndMorty-api-giphy/index.html",
-    "static/css/main.9690bb66.chunk.css.map": "/RickAndMorty-api-giphy/static/css/main.9690bb66.chunk.css.map",
-    "static/js/2.e01fe536.chunk.js.LICENSE.txt": "/RickAndMorty-api-giphy/static/js/2.e01fe536.chunk.js.LICENSE.txt"
+    "static/css/main.273e679f.chunk.css.map": "/RickAndMorty-api-giphy/static/css/main.273e679f.chunk.css.map",
+    "static/js/2.b2c089fc.chunk.js.LICENSE.txt": "/RickAndMorty-api-giphy/static/js/2.b2c089fc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7445841b.js",
-    "static/js/2.e01fe536.chunk.js",
-    "static/css/main.9690bb66.chunk.css",
-    "static/js/main.733a3e41.chunk.js"
+    "static/js/2.b2c089fc.chunk.js",
+    "static/css/main.273e679f.chunk.css",
+    "static/js/main.fa58fcd7.chunk.js"
   ]
 }
