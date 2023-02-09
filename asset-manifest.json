@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/RickAndMorty-api-giphy/static/css/main.3d451268.chunk.css",
-    "main.js": "/RickAndMorty-api-giphy/static/js/main.6aa6d01d.chunk.js",
-    "main.js.map": "/RickAndMorty-api-giphy/static/js/main.6aa6d01d.chunk.js.map",
+    "main.css": "/RickAndMorty-api-giphy/static/css/main.15b3f590.chunk.css",
+    "main.js": "/RickAndMorty-api-giphy/static/js/main.488eae6d.chunk.js",
+    "main.js.map": "/RickAndMorty-api-giphy/static/js/main.488eae6d.chunk.js.map",
     "runtime-main.js": "/RickAndMorty-api-giphy/static/js/runtime-main.7445841b.js",
     "runtime-main.js.map": "/RickAndMorty-api-giphy/static/js/runtime-main.7445841b.js.map",
-    "static/js/2.b8bb1fe3.chunk.js": "/RickAndMorty-api-giphy/static/js/2.b8bb1fe3.chunk.js",
-    "static/js/2.b8bb1fe3.chunk.js.map": "/RickAndMorty-api-giphy/static/js/2.b8bb1fe3.chunk.js.map",
+    "static/js/2.d9933b39.chunk.js": "/RickAndMorty-api-giphy/static/js/2.d9933b39.chunk.js",
+    "static/js/2.d9933b39.chunk.js.map": "/RickAndMorty-api-giphy/static/js/2.d9933b39.chunk.js.map",
     "index.html": "/RickAndMorty-api-giphy/index.html",
-    "static/css/main.3d451268.chunk.css.map": "/RickAndMorty-api-giphy/static/css/main.3d451268.chunk.css.map",
-    "static/js/2.b8bb1fe3.chunk.js.LICENSE.txt": "/RickAndMorty-api-giphy/static/js/2.b8bb1fe3.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/RickAndMorty-api-giphy/static/media/get_schwifty.c3d1dfc6.ttf"
+    "static/css/main.15b3f590.chunk.css.map": "/RickAndMorty-api-giphy/static/css/main.15b3f590.chunk.css.map",
+    "static/js/2.d9933b39.chunk.js.LICENSE.txt": "/RickAndMorty-api-giphy/static/js/2.d9933b39.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/RickAndMorty-api-giphy/static/media/portalDifuminado.eff75d87.png"
   },
   "entrypoints": [
     "static/js/runtime-main.7445841b.js",
-    "static/js/2.b8bb1fe3.chunk.js",
-    "static/css/main.3d451268.chunk.css",
-    "static/js/main.6aa6d01d.chunk.js"
+    "static/js/2.d9933b39.chunk.js",
+    "static/css/main.15b3f590.chunk.css",
+    "static/js/main.488eae6d.chunk.js"
   ]
 }
